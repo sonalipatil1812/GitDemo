@@ -1,2 +1,4 @@
 Automation testing
 manual testing
+jira
+bdd cucumber
